@@ -15,6 +15,8 @@ public class TestUUID {
 		System.out.println(str);
 		
 		
+		
+		
 	}
 
 }

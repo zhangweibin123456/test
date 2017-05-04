@@ -13,6 +13,8 @@ public class TestUUID {
 		String str="你好 ${abc} 我";
 		str = str.replace("${abc}", "北京");
 		System.out.println(str);
+		
+		
 	}
 
 }

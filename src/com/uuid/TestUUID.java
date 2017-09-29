@@ -4,15 +4,13 @@ package com.uuid;
 public class TestUUID {
 
 	public static void main(String[] args) {
-//		UUID uuid = UUID.randomUUID().toString().s;
-//		
-//		System.out.println(uuid);
 
-		
-		
-		
+		System.out.println("1");
+		System.out.println("2");
 		System.out.println("3");
-		
+		System.out.println("4");
+		System.out.println("5");
+		System.out.println("6");
 		
 		
 		

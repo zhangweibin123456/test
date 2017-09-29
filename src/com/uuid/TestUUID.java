@@ -11,10 +11,7 @@ public class TestUUID {
 		
 		
 		
-
-		System.out.println("2");
-
-
+		System.out.println("3");
 		
 		
 		

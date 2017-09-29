@@ -5,12 +5,12 @@ public class TestUUID {
 
 	public static void main(String[] args) {
 
-		System.out.println("1");
-		System.out.println("2");
-		System.out.println("3");
-		System.out.println("4");
-		System.out.println("5");
-		System.out.println("6");
+		System.out.println("21");
+		System.out.println("22");
+		System.out.println("23");
+		System.out.println("24");
+		System.out.println("25");
+		System.out.println("26");
 		
 		
 		
